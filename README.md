@@ -6,10 +6,10 @@
 
   <p class="projectBadges">
     <img src="https://johng.io/badges/category/App.svg" alt="Project category" title="Project category">
-    <img src="https://img.shields.io/github/languages/top/jerboa88/collage-generator-for-last.fm.svg" alt="Language" title="Language">
-    <img src="https://img.shields.io/github/repo-size/jerboa88/collage-generator-for-last.fm.svg" alt="Repository size" title="Repository size">
+    <img src="https://img.shields.io/github/languages/top/twocaretcat/collage-generator-for-last.fm.svg" alt="Language" title="Language">
+    <img src="https://img.shields.io/github/repo-size/twocaretcat/collage-generator-for-last.fm.svg" alt="Repository size" title="Repository size">
     <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/jerboa88/collage-generator-for-last.fm.svg" alt="Project license" title="Project license"/>
+      <img src="https://img.shields.io/github/license/twocaretcat/collage-generator-for-last.fm.svg" alt="Project license" title="Project license"/>
     </a>
   </p>
 
@@ -107,7 +107,7 @@ This project is not affiliated with or endorsed by Last.fm in any way. All album
 
 
 ## 🖇️ Related
- - **[Playlist Archiver for Spotify](https://github.com/jerboa88/Playlist-Archiver-for-Spotify)**: Automatically archive Spotify playlists using Python & GitHub Actions. Never lose your Discover Weekly playlist again!
+ - **[Playlist Archiver for Spotify](https://github.com/twocaretcat/Playlist-Archiver-for-Spotify)**: Automatically archive Spotify playlists using Python & GitHub Actions. Never lose your Discover Weekly playlist again!
 
 
 ## 💕 Funding

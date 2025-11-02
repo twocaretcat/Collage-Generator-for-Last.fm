@@ -87,7 +87,7 @@ def ParseInputOptions():
 
 	# Use this username as an example
 	if args.user == 'example':
-		args.user = 'jerboa88'
+		args.user = 'twocaretcat'
 
 	# Check width and height
 	dim = [args.width, args.height]
@@ -221,7 +221,7 @@ def GenerateSpiral(rows, cols):
 def GenerateExif():
 	_TAGS_r = dict(((v, k) for k, v in TAGS.items()))
 	ifd = ImageFileDirectory_v2()
-	ifd[_TAGS_r['Software']] = u'Last.fm Album Collage Generator by jerboa88'
+	ifd[_TAGS_r['Software']] = u'Last.fm Album Collage Generator by twocaretcat'
 	out = BytesIO()
 	ifd.save(out)
 
